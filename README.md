@@ -1,4 +1,7 @@
 # seed
+
+[![Gitter](https://badges.gitter.im/seedjs-org/community.svg)](https://gitter.im/seedjs-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 I have no idea how, but this repository will change the world for those who need it changed.
 
 The idea here is that there is a vast under served community in the world, how can their lives be made better?
